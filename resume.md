@@ -7,4 +7,4 @@
 
 > Estudante da Faculdade de Tecnologia Arthur de Azevedo, cursando o segundo semestre de analise e desenvolvimento de sistemas.
 
-> Meu objetivo é atuar na area de desenvolvimento web, estou aprofundando meus conhecimentos em tais tecnologias: PHP, javascript, vue.js.
+> Meu objetivo é atuar na area de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: PHP, laravel, javascript, vue.js e bootstrap.
