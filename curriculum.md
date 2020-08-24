@@ -8,14 +8,20 @@
 > Estudante na Faculdade de Tecnologia Arthur de Azevedo, cursando o segundo semestre de analise e desenvolvimento de sistemas.
 
 > Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: PHP, laravel, javascript, vue.js e bootstrap.
+-----
 
 ## TECNOLOGIAS
 - BASICO: PHP, laravel, javascript, vue.js e bootstrap.
+-----
 
 ## PROJETOS
+-----
 
 ## EXPERIÊNCIAS
 - Sem experiências profissionais, apenas em projetos.
+-----
+
 ## IDIOMAS
 - Português: Nativo.
 - Inglês:    Basico.
+-----
