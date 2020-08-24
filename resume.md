@@ -5,6 +5,15 @@
 | [LinkedIn](https://www.linkedin.com/in/geovane-alexandre-morais-b901561a5/)
 | [GitHub](https://github.com/geovane-morais)\
 
-> Estudante na Faculdade de Tecnologia Arthur de Azevedo, cursando o segundo semestre de analise e desenvolvimento de sistemas.
+> Estudante na Faculdade de Tecnologia Arthur de Azevedo, cursando o segundo semestre de analise e desenvolvimento de sistemas.\
 
 > Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: PHP, laravel, javascript, vue.js e bootstrap.
+
+# TECNOLOGIAS
+> 
+
+# PROJETOS
+
+# EXPERIÊNCIAS
+
+# IDIOMAS
