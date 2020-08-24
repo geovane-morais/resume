@@ -26,4 +26,4 @@
 - English: Basic.
 -----
 
-## [See resume in PDF](/docs/GeovaneMorais.pdf)
+## [See the Resume in PDF](/docs/GeovaneMorais.pdf)
