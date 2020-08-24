@@ -10,7 +10,7 @@
 > Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: PHP, laravel, javascript, vue.js e bootstrap.
 
 # TECNOLOGIAS
-- BASICO: PHP,laravel, javascript, vue.js e bootstrap.
+- BASICO: PHP, laravel, javascript, vue.js e bootstrap.
 
 # PROJETOS
 
