@@ -25,3 +25,5 @@
 - Português: Nativo.
 - Inglês:    Basico.
 -----
+
+## [DOWNLOAD Currículo](/docs/GeovaneMorais.pdf)
