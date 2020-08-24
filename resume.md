@@ -11,9 +11,9 @@
 -----
 
 ## FORMATION
-- Technologist in systems analysis and development - studying (finish scheduled - Dec/2022);
-- Industrial Automation Technician - ETEC Euro Albino de Souza, complete 2019;
-- High school - ETEC Euro Albino de Souza, complete 2019.
+- Technologist in systems analysis and development - studying (finish scheduled - Dec/2022)
+- Industrial Automation Technician - ETEC Euro Albino de Souza, complete 2019
+- High school - ETEC Euro Albino de Souza, complete 2019
 -----
 
 ## TECHNOLOGIES
