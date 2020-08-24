@@ -1,2 +1,2 @@
 >Escolha qual Idioma/Choose which Language:\
->[Português/Portuguese](resume.md) - [Inglês/English](curriculum.md)
+>[Português/Portuguese](curriculum.md) - [Inglês/English](resume.md)
