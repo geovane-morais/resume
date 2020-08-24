@@ -26,4 +26,4 @@
 - Inglês:    Basico.
 -----
 
-## [Veja Currículo](/docs/GeovaneMorais.pdf)
+## [Veja Currículo em PDF](/docs/GeovaneMorais.pdf)
