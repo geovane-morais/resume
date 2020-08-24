@@ -7,6 +7,7 @@
 | [GitHub](https://github.com/geovane-morais) |
 
 > Student at Arthur de Azevedo Faculty of Technology, studying the second semester of systems analysis and development.
+
 > My goal is to work in the area of web development, for this reason I deepen my knowledge in technologies like as: PHP, laravel, javascript, vue.js and bootstrap.
 -----
 
