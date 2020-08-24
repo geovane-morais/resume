@@ -8,14 +8,20 @@
 > Student at the Arthur de Azevedo Faculty of Technology, studying the second semester of systems analysis and development.
 
 > My goal is to work in the area of ​​web development, for this reason I deepen my knowledge in technologies such as: PHP, laravel, javascript, vue.js and bootstrap.
+-----
 
 ## TECHNOLOGIES
 - BASIC: PHP, laravel, javascript, vue.js and bootstrap.
+-----
 
 ## PROJECTS
+-----
 
 ## EXPERIENCES
 - No professional experience, only in projects.
+-----
+
 ## LANGUAGES
 - Portuguese: Native.
 - English: Basic.
+-----
