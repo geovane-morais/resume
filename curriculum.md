@@ -10,6 +10,11 @@
 > Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: PHP, laravel, javascript, vue.js e bootstrap.
 -----
 
+## FORMAÇÃO
+- Tecnólogo em analise e desenvolvimento de sistemas - Cursando (termino previsto dez/2022);
+- Técnico em Automação Industrial - ETEC Euro Albino de Souza, completo 2019;
+- Ensino médio - ETEC Euro Albino de Souza, completo 2019.
+
 ## TECNOLOGIAS
 - BASICO: PHP, laravel, javascript, vue.js e bootstrap.
 -----
