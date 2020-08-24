@@ -17,5 +17,5 @@
 ## EXPERIENCES
 - No professional experience, only in projects.
 ## LANGUAGES
-- Native Portuguese.
-- Basic English.
+- Portuguese: Native.
+- English: Basic.
