@@ -1,21 +1,21 @@
-# Geovane Alexandre Morais 
-> Desenvolvedor Web - Mogi Guaçu,SP.\
-> [geovanealexandremorais@gmail.com](mailto:geovanealexandremorais@gmail.com)
-| [WhatsApp](https://api.whatsapp.com/send?phone=5519991784852)
-| [LinkedIn](https://www.linkedin.com/in/geovane-alexandre-morais-b901561a5/)
-| [GitHub](https://github.com/geovane-morais)|
+# Geovane Alexandre Morais
+> Web Developer - Mogi Guaçu, SP. \
+> [geovanealexandremorais@gmail.com] (mailto: geovanealexandremorais@gmail.com)
+| [WhatsApp] (https://api.whatsapp.com/send?phone=5519991784852)
+| [LinkedIn] (https://www.linkedin.com/in/geovane-alexandre-morais-b901561a5/)
+| [GitHub] (https://github.com/geovane-morais) |
 
-> Estudante na Faculdade de Tecnologia Arthur de Azevedo, cursando o segundo semestre de analise e desenvolvimento de sistemas.
+> Student at the Arthur de Azevedo Faculty of Technology, studying the second semester of systems analysis and development.
 
-> Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: PHP, laravel, javascript, vue.js e bootstrap.
+> My goal is to work in the area of ​​web development, for this reason I deepen my knowledge in technologies such as: PHP, laravel, javascript, vue.js and bootstrap.
 
-## TECNOLOGIAS
-- BASICO: PHP, laravel, javascript, vue.js e bootstrap.
+## TECHNOLOGIES
+- BASIC: PHP, laravel, javascript, vue.js and bootstrap.
 
-## PROJETOS
+## PROJECTS
 
-## EXPERIÊNCIAS
-- Sem experiências profissionais, apenas em projetos.
-## IDIOMAS
-- Português: Nativo.
-- Inglês:    Basico.
+## EXPERIENCES
+- No professional experience, only in projects.
+## LANGUAGES
+- Native Portuguese.
+- Basic English.
