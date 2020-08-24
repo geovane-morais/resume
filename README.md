@@ -1,2 +1,2 @@
-Escolha qual Idioma/Choose which Language:\
-[Português/Portuguese] - [Inglês/English]
+Escolha qual Idioma/Choose which Language:\n
+[Português/Portuguese] - [Inglês/English] \n
