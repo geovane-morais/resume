@@ -10,6 +10,12 @@
 > My goal is to work in the area of web development, for this reason I deepen my knowledge in technologies like as: PHP, laravel, javascript, vue.js and bootstrap.
 -----
 
+## FORMATION
+- Technologist in systems analysis and development - Attending (finish scheduled - Dec/2022);
+- Industrial Automation Technician - ETEC Euro Albino de Souza, complete 2019;
+- High school - ETEC Euro Albino de Souza, complete 2019.
+-----
+
 ## TECHNOLOGIES
 - BASIC: PHP, laravel, javascript, vue.js and bootstrap.
 -----
