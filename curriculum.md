@@ -3,7 +3,7 @@
 > [geovanealexandremorais@gmail.com](mailto:geovanealexandremorais@gmail.com)
 | [WhatsApp](https://api.whatsapp.com/send?phone=5519991784852)
 | [LinkedIn](https://www.linkedin.com/in/geovane-alexandre-morais-b901561a5/)
-| [GitHub](https://github.com/geovane-morais)|
+| [GitHub](https://github.com/geovane-morais) |
 
 > Estudante na Faculdade de Tecnologia Arthur de Azevedo, cursando o segundo semestre de analise e desenvolvimento de sistemas.
 
