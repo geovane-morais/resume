@@ -17,5 +17,5 @@
 ## EXPERIÊNCIAS
 - Sem experiências profissionais, apenas em projetos.
 ## IDIOMAS
--Português: Nativo.
--Inglês:    Basico.
+- Português: Nativo.
+- Inglês:    Basico.
