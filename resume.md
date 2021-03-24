@@ -18,7 +18,6 @@
 -----
 
 ## TECHNOLOGIES
-- BASIC: PHP, laravel, javascript, vue.js and bootstrap.
 -----
 
 ## PROJECTS
