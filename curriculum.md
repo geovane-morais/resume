@@ -17,7 +17,7 @@
 - Ensino médio - ETEC Euro Albino de Souza, completo 2019
 
 ## TECNOLOGIAS
-- BASICO: PHP, laravel, javascript, vue.js e bootstrap.
+
 -----
 
 ## PROJETOS
