@@ -19,7 +19,7 @@
 
 ## PROJETOS
 - [Estudo](https://github.com/geovane-morais/web)
-- [cicoWeb](https://github.com/geovane-morais/ciscoWeb)
+- [ciscoWeb](https://github.com/geovane-morais/ciscoWeb)
 -----
 
 ## EXPERIÊNCIAS
