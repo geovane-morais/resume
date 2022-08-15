@@ -6,9 +6,9 @@
 | [LinkedIn](https://www.linkedin.com/in/geovane-alexandre-morais-b901561a5/)
 | [GitHub](https://github.com/geovane-morais) |
 
-> Estudante na Faculdade de Tecnologia Arthur de Azevedo, cursando o segundo semestre de analise e desenvolvimento de sistemas.
+> Estudante na Faculdade de Tecnologia Arthur de Azevedo, cursando o sexto semestre de analise e desenvolvimento de sistemas.
 
-> Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: PHP, laravel, javascript, vue.js e bootstrap.
+> Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: NodeJS, PHP, MySQL, javascript, React.js e bootstrap.
 -----
 
 ## FORMAÇÃO
@@ -16,20 +16,21 @@
 - Técnico em Automação Industrial - ETEC Euro Albino de Souza, completo 2019
 - Ensino médio - ETEC Euro Albino de Souza, completo 2019
 
-## TECNOLOGIAS
-
------
 
 ## PROJETOS
+- [Estudo](https://github.com/geovane-morais/web)
+- [cicoWeb](https://github.com/geovane-morais/ciscoWeb)
 -----
 
 ## EXPERIÊNCIAS
-- Sem experiências profissionais, apenas em projetos.
+- Seis meses como suporte tecnico no grupo NSC.
+- Cargo atual como estagiário em Telecomunicações no Banco ITAU.
+- Experiencia em programação apenas em projetos
 -----
 
 ## IDIOMAS
 - Português: Nativo.
-- Inglês:    Basico.
+- Inglês: Basico.
 -----
 
-## [Veja o Currículo em PDF](/docs/GeovaneMorais.pdf)
+## [Veja o Currículo Completo em PDF](/docs/GeovaneMorais.pdf)
