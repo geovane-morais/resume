@@ -1,8 +1,8 @@
 # Geovane Alexandre Morais 
 > Desenvolvedor Web - Mogi Guaçu,SP.\
 > [geovanealexandremorais@gmail.com](mailto:geovanealexandremorais@gmail.com)
-| (+55) (19) 9.9178.4852
-| [WhatsApp](https://api.whatsapp.com/send?phone=5519991784852)
+| (+55) (19) 9.9631-6033
+| [WhatsApp](https://api.whatsapp.com/send?phone=5519996316033)
 | [LinkedIn](https://www.linkedin.com/in/geovane-alexandre-morais-b901561a5/)
 | [GitHub](https://github.com/geovane-morais) |
 
