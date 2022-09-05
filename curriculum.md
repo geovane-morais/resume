@@ -8,7 +8,7 @@
 
 > Estudante na Faculdade de Tecnologia Arthur de Azevedo, cursando o sexto semestre de analise e desenvolvimento de sistemas.
 
-> Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: NodeJS, PHP, MySQL, javascript, React.js e bootstrap.
+> Meu objetivo é atuar na área de desenvolvimento web, por esta razão aprofundo meus conhecimentos em tecnologias como: Java, Spring, NodeJS, Express, MySQL, Javascript, React.js e Bootstrap.
 -----
 
 ## FORMAÇÃO

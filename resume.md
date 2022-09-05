@@ -8,7 +8,7 @@
 
 > Student at Arthur de Azevedo Faculty of Technology, studying the sixth semester of systems analysis and development.
 
-> My goal is to work in the area of web development, for this reason I deepen my knowledge in technologies like as: NodeJS, PHP, MySQL, javascript, React.js e bootstrap.
+> My goal is to work in the area of web development, for this reason I deepen my knowledge in technologies like as: Java, Spring, NodeJS, Express, MySQL, Javascript, React.js e Bootstrap.
 -----
 
 ## FORMATION
