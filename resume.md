@@ -1,9 +1,9 @@
 # Geovane Alexandre Morais
 > Web Developer - Mogi Guaçu, SP. \
-> [geovanealexandremorais@gmail.com](mailto:geovanealexandremorais@gmail.com)
+> [geovane.dest@gmail.com](mailto:geovane.dest@gmail.com)
 | (+55) (19) 9.9631-6033
 | [WhatsApp](https://api.whatsapp.com/send?phone=5519996316033)
-| [LinkedIn](https://www.linkedin.com/in/geovane-alexandre-morais-b901561a5/)
+| [LinkedIn](https://www.linkedin.com/in/geovane-alexandre-morais/)
 | [GitHub](https://github.com/geovane-morais) |
 
 > Student at Arthur de Azevedo Faculty of Technology, studying the sixth semester of systems analysis and development.
